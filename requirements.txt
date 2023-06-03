@@ -3,3 +3,5 @@ streamlit
 scikit-learn
 numpy
 scipy
+pandas
+scikit_learn
