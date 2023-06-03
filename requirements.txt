@@ -1,5 +1,5 @@
 nltk
-streamlit
+streamlit==1.23.1
 scikit-learn
 numpy
 scipy
