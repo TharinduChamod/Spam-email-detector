@@ -19,3 +19,15 @@ EDA process has done with my own function, including:
 
 ## Web Application
 Web application is created using Streamlit. Simple UI was created for ease of use of everyone.
+
+## To use the appplication on your machine follow the below steps
+* Download the repository
+* Run this command in terminal (Make sure you have internet connection)
+```
+pip install -r requirements.txt
+```
+* Then in terminal you can simply use following command to use the application.
+```
+streamlit run app.py
+```
+* You can enter email text and predict for spam
