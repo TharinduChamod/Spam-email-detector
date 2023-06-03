@@ -1,4 +1,5 @@
 nltk
 streamlit
 scikit-learn
+numpy
 scipy
